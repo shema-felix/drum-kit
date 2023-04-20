@@ -16,11 +16,6 @@ The drum kit is an app where you can play the drums with either keyboard or mous
 
 - Major languages: HTML/CSS, JavaScript
 
-## Live Demo
-
-[Live Demo Link](https://hope1226.github.io/drum-kit/)
-
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -46,14 +41,6 @@ Run in your terminal the following commands:
 **`$ code .`**<br>
 **`$ go live server`**<br>
 
-## Authors
-
-👤 **Umidjon Ustabaev (Hope)**
-
-- GitHub: [@Hope1226](https://github.com/Hope1226)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -71,16 +58,3 @@ This web-app is built within the online tutorials provided by Wes Bos.<br>
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
-
-
-[forks-shield]: https://img.shields.io/github/forks/omar-labana/portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/Hope1226/hope-profile/network/members
-[stars-shield]: https://img.shields.io/github/stars/omar-labana/portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/Hope1226/hope-profile/stargazers
-[issues-shield]: https://img.shields.io/github/issues/omar-labana/portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/Hope1226/hope-profile/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: hhttps://github.com/Hope1226/hope-profile/blob/master/MIT.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/umidjon-ustabaev/
