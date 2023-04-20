@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple steps.
 To setup the Stock Market project in your local, in the repo page:
 click on code (dropdown list) > Download as ZIP;
 or open terminal of path you want to install project and run this command <br>
-`git@github.com:git@github.com:Hope1226/drum-kit.git`
+`git clone https://github.com/shema-felix/drum-kit.git`
 
 ### Install
 
