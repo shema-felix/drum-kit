@@ -41,12 +41,6 @@ Run in your terminal the following commands:
 **`$ code .`**<br>
 **`$ go live server`**<br>
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Hope1226/drum-kit/issues).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
